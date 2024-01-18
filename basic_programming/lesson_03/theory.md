@@ -1,6 +1,6 @@
-# Lesson 02
+# Lesson 03
 
-Презентации в [l3_variables-and-data-types.pdf](https://github.com/ait-tr/cohort40.2/blob/main/basic_programming/lesson_02/presentation/l3_variables-and-data-types.pdf)
+Презентации в [l3_variables-and-data-types.pdf](https://github.com/ait-tr/cohort40.2/blob/main/basic_programming/lesson_03/presentation/l3_variables-and-data-types.pdf)
 
 #### Заметки с занятия
 
