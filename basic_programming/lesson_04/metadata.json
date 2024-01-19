@@ -1,0 +1,10 @@
+{
+  "topic": "string, stdin/stdout, comments. ",
+  "date": "2024-01-19",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/CurrencyConverter/src/Main.java"
+  ]
+}
