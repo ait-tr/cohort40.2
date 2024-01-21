@@ -5,8 +5,8 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/CurrencyConverter/src/ArgParser.java",
-    "code/CurrencyConverter/src/SinX.java",
-    "code/CurrencyConverter/src/GuessNumber.java"
+    "code/examples/src/ArgParser.java",
+    "code/examples/src/SinX.java",
+    "code/examples/src/GuessNumber.java"
   ]
 }
