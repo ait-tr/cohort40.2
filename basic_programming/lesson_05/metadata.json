@@ -1,0 +1,12 @@
+{
+  "topic": "args, import, boolean, logical connective, linearity & nonlinear programs. ",
+  "date": "2024-01-22",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/CurrencyConverter/src/ArgParser.java",
+    "code/CurrencyConverter/src/SinX.java",
+    "code/CurrencyConverter/src/GuessNumber.java"
+  ]
+}
