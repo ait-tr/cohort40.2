@@ -7,6 +7,7 @@
   "code": [
     "code/examples/src/ArgParser.java",
     "code/examples/src/SinX.java",
-    "code/examples/src/GuessNumber.java"
+    "code/examples/src/GuessNumber.java",
+    "code/examples/src/CurrencyConverter.java"
   ]
 }
