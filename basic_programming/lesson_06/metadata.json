@@ -1,0 +1,10 @@
+{
+  "topic": "if-else, scope, ternary operator. ",
+  "date": "2024-01-23",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/GuessNumber.java"
+  ]
+}
