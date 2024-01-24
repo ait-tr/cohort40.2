@@ -1,0 +1,10 @@
+{
+  "topic": "switch, while. ",
+  "date": "2024-01-24",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/BinaryTable.java"
+  ]
+}
