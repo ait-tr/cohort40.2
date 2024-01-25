@@ -1,0 +1,10 @@
+{
+  "topic": "methods, void, calling. ",
+  "date": "2024-01-26",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/CurrencyConverter.java"
+  ]
+}
