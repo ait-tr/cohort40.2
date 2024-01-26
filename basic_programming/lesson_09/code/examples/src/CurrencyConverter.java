@@ -26,14 +26,8 @@ public class CurrencyConverter {
         System.out.println("Или введите exit, чтобы завершить программу");
 
         do {
-            currencyFrom = "";
-
             System.out.print("\nВыберите исходную валюту: ");
-            // Делаем две попытки, чтобы считать изначальную валюту
-            // потому что со второго цикла возникает мусорное
-            // заполнение буффера
-            for (int i = 0; currencyFrom.isEmpty() && i < 2; i++)
-                currencyFrom = scanner.nextLine();
+            currencyFrom = scanner.nextLine();
 
             double x, y;
 
@@ -56,7 +50,7 @@ public class CurrencyConverter {
             }
 
             System.out.print("Выберите конечную валюту: ");
-            currencyTo = scanner.next();
+            currencyTo = scanner.nextLine();
 
             switch (currencyTo) {
                 case "EURO":
@@ -74,7 +68,7 @@ public class CurrencyConverter {
             }
 
             System.out.print("Введите сумму в изначальной валюте: ");
-            double initSum = scanner.nextDouble();
+            double initSum = Double.parseDouble(scanner.nextLine());
 
             double finalSum = initSum * x / y;
             // Округляем до двух знаков до запятой, округление вниз
