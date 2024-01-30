@@ -1,11 +1,10 @@
 {
-  "topic": "methods, void, calling. ",
-  "date": "2024-01-26",
+  "topic": "methods, method overloading, varargs, args passing. ",
+  "date": "2024-01-30",
   "plan": "plan.md",
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/examples/src/CurrencyConverter.java",
     "code/examples/src/CalcAndPrint.java"
   ]
 }

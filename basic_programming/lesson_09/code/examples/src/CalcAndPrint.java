@@ -1,4 +1,4 @@
-class Boo {
+public class CalcAndPrint {
     public static void main(String[] args) {
         int a = 1;
         calcAndPrint(a);
