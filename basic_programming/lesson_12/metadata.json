@@ -1,0 +1,12 @@
+{
+  "topic": "searching, sorting. ",
+  "date": "2024-01-31",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/BinarySearch.java",
+    "code/examples/src/SearchLinear.java",
+    "code/examples/src/SelectionSort.java"
+  ]
+}
