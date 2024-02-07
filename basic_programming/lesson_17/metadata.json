@@ -1,0 +1,18 @@
+{
+  "topic": "Encapsulation",
+  "date": "2024-02-07",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l17/transport/Bike.java",
+    "code/examples/src/l17/transport/Car.java",
+    "code/examples/src/l17/transport/Bus.java",
+    "code/examples/src/l17/people/Woman.java",
+    "code/examples/src/l17/people/Man.java",
+    "code/examples/src/l17/animal/Cow.java",
+    "code/examples/src/l17/animal/Cat.java",
+    "code/examples/src/l17/animal/Dog.java",
+    "code/examples/src/L17Main.java"
+  ]
+}
