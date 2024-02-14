@@ -1,0 +1,15 @@
+{
+  "topic": "JUnit",
+  "date": "2024-02-13",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l21/OrderExampleTest.java",
+    "code/examples/src/l21/Pokemon.java",
+    "code/examples/src/l21/CarArrayListTest.java",
+    "code/examples/src/l21/CarArrayList.java",
+    "code/examples/src/l21/PokemonTest.java",
+    "code/examples/src/l21/Car.java"
+  ]
+}
