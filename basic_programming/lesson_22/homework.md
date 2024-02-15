@@ -5,4 +5,4 @@
 Вариант 2:
 Реализуейте дочерние классы покемонов по этому набору: 
 
-![картинка](https://github.com/ait-tr/cohort40.2/blob/main/basic_programming/lesson_22/presentation/pokemons.l22.png)
+![картинка](./presentation/pokemons.l22.png)
