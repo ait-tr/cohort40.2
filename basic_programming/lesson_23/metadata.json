@@ -1,0 +1,29 @@
+{
+  "topic": "Сlass inheritance",
+  "date": "2024-02-15",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+      "code/examples/src/l23/protected_example/person/Person.java",
+      "code/examples/src/l23/protected_example/person/Main.java",
+      "code/examples/src/l23/protected_example/student/Student.java",
+      "code/examples/src/l23/protected_example/Main.java",
+      "code/examples/src/l23/Main.java",
+      "code/examples/src/l23/people/Woman.java",
+      "code/examples/src/l23/people/People.java",
+      "code/examples/src/l23/people/BadBoy.java",
+      "code/examples/src/l23/people/Man.java",
+      "code/examples/src/l23/people/BadGirl.java",
+      "code/examples/src/l23/people/v2/BadBoy.java",
+      "code/examples/src/l23/people/v2/BadGirl.java",
+      "code/examples/src/l23/people/v2/Human.java",
+      "code/examples/src/l23/people/v2/Main.java",
+      "code/examples/src/l23/people/Human.java",
+      "code/examples/src/l23/people/Main.java",
+      "code/examples/src/l23/people/v1_5/BadBoy.java",
+      "code/examples/src/l23/people/v1_5/BadGirl.java",
+      "code/examples/src/l23/people/v1_5/Human.java",
+      "code/examples/src/l23/people/v1_5/Main.java"
+  ]
+}

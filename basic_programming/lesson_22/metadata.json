@@ -5,17 +5,11 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/examples/src/l22/transport/Bike.java",
-    "code/examples/src/l22/transport/Transport.java",
-    "code/examples/src/l22/transport/Car.java",
-    "code/examples/src/l22/transport/Bus.java",
-    "code/examples/src/l22/L22Main.java",
-    "code/examples/src/l22/people/Woman.java",
-    "code/examples/src/l22/people/People.java",
-    "code/examples/src/l22/people/Man.java",
-    "code/examples/src/l22/animal/Cow.java",
-    "code/examples/src/l22/animal/Cat.java",
-    "code/examples/src/l22/animal/Dog.java",
-    "code/examples/src/l22/animal/Animal.java"
+    "code/examples/src/l22/Train.java",
+    "code/examples/src/l22/TransportMain.java",
+    "code/examples/src/l22/CarTransport.java",
+    "code/examples/src/l22/SpecialBus.java",
+    "code/examples/src/l22/Vehicle.java",
+    "code/examples/src/l22/Bus.java"
   ]
 }
