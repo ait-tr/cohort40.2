@@ -1,0 +1,17 @@
+{
+  "topic": "interfaces",
+  "date": "2024-02-21",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+"code/examples/src/l27/ex1/Drawable.java",
+"code/examples/src/l27/people/Woman.java",
+"code/examples/src/l27/people/Man.java",
+"code/examples/src/l27/people/Person.java",
+"code/examples/src/l27/people/Main.java",
+"code/examples/src/l27/people/IPerson.java",
+"code/examples/src/l27/ex3/Main.java",
+"code/examples/src/l27/ex2/Fillable.java"
+  ]
+}
