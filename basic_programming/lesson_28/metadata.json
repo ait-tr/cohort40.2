@@ -1,0 +1,14 @@
+{
+  "topic": "Nested class",
+  "date": "2024-02-22",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l28/hw.java",
+    "code/examples/src/l28/ex1.java",
+    "code/examples/src/l28/ex4/ALotOfInnerClassLevels.java",
+    "code/examples/src/l28/ex3/InnerClassExaplme.java",
+    "code/examples/src/l28/ex2/StaticNestedClassExaplme.java"
+  ]
+}
