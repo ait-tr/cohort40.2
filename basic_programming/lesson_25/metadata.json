@@ -1,0 +1,10 @@
+{
+  "topic": "Polymorphism",
+  "date": "2024-02-19",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l25/AnimalsExample.java"
+  ]
+}
