@@ -1,0 +1,15 @@
+{
+  "topic": "Object & String",
+  "date": "2024-02-16",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l24/StringComparing.java",
+    "code/examples/src/l24/ToStringExample.java",
+    "code/examples/src/l24/EqualsExample.java",
+    "code/examples/src/l24/StringBuilderExample2.java",
+    "code/examples/src/l24/StringBuilderExample.java",
+    "code/examples/src/l24/Main.java"
+  ]
+}
