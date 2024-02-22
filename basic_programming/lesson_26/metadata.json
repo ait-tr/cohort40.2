@@ -1,0 +1,23 @@
+{
+  "topic": "Abstraction",
+  "date": "2024-02-20",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l26/old/transport/Bike.java",
+    "code/examples/src/l26/old/transport/Car.java",
+    "code/examples/src/l26/old/transport/Bus.java",
+    "code/examples/src/l26/old/CarArrayList.java",
+    "code/examples/src/l26/old/Main.java",
+    "code/examples/src/l26/old/people/Woman.java",
+    "code/examples/src/l26/old/people/Man.java",
+    "code/examples/src/l26/old/people/Person.java",
+    "code/examples/src/l26/old/people/Main.java",
+    "code/examples/src/l26/old/animal/Cat.java",
+    "code/examples/src/l26/old/animal/Dog.java",
+    "code/examples/src/l26/TV.java",
+    "code/examples/src/l26/AnimalsExample.java",
+    "code/examples/src/l26/Shape.java"
+  ]
+}
