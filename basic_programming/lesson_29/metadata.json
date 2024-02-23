@@ -1,0 +1,13 @@
+{
+  "topic": "Nested class",
+  "date": "2024-02-23",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l29/linkedlist/Main.java",
+    "code/examples/src/l29/ex1/Main.java",
+    "code/examples/src/l29/arraylist/Main.java",
+    "code/examples/src/l29/ex2/Main.java"
+  ]
+}
