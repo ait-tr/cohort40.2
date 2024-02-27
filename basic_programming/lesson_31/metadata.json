@@ -1,0 +1,13 @@
+{
+  "topic": "anon class & lambda",
+  "date": "2024-02-27",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l31/AnonClassMain1.java",
+    "code/examples/src/l31/Main4.java",
+    "code/examples/src/l31/Main2.java",
+    "code/examples/src/l31/Main3.java"
+  ]
+}
