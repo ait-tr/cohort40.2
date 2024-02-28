@@ -1,0 +1,10 @@
+{
+  "topic": "enum",
+  "date": "2024-02-28",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l32/Main.java"
+  ]
+}
