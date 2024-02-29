@@ -1,0 +1,16 @@
+{
+  "topic": "generics",
+  "date": "2024-02-29",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+	"code/examples/src/l33/impovisation/ex1/IntBox.java",
+	"code/examples/src/l33/impovisation/ex1/ObjectBox.java",
+	"code/examples/src/l33/impovisation/ex1/Main.java",
+	"code/examples/src/l33/impovisation/ex3/Main.java",
+	"code/examples/src/l33/impovisation/ex2/Main.java",
+	"code/examples/src/l33/slides/ex1/Box.java",
+	"code/examples/src/l33/slides/ex2/Main.java"
+  ]
+}
