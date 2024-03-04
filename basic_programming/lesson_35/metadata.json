@@ -1,0 +1,13 @@
+{
+  "topic": "collections-II",
+  "date": "2024-03-04",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+	"code/examples/src/l35/slides/ex0/Main.java",
+    "code/examples/src/l35/slides/ex1/Main.java",
+    "code/examples/src/l35/slides/imporvisation/ex1/Main.java",
+    "code/examples/src/l35/slides/ex2/Main.java"
+  ]
+}

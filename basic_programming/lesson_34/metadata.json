@@ -1,0 +1,17 @@
+{
+  "topic": "collections-I",
+  "date": "2024-03-01",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l34/improvisation/ex1/Main.java",
+    "code/examples/src/l34/improvisation/ex2/TaskManager.java",
+    "code/examples/src/l34/improvisation/ex2/TaskStatus.java",
+    "code/examples/src/l34/improvisation/ex2/Main.java",
+    "code/examples/src/l34/improvisation/ex2/Task.java",
+    "code/examples/src/l34/slides/ex1/Main.java",
+    "code/examples/src/l34/slides/ex3/Main.java",
+    "code/examples/src/l34/slides/ex2/Main.java"
+  ]
+}
