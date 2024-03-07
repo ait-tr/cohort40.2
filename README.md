@@ -9,4 +9,4 @@ https://ait-tr.github.io/lesson.html?&file=https://raw.githubusercontent.com/ait
 
 You can also view any lesson from any group with lessons explorer: https://lms.ait-tr.de/#/lessons
 
-More metherials: https://lambda.am/blog/java-beginners-materials.html
+More materials: https://lambda.am/blog/java-beginners-materials.html
