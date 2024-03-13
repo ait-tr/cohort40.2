@@ -1,0 +1,11 @@
+{
+  "topic": "collections-IV",
+  "date": "2024-03-06",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+	"code/examples/src/l37/slides/ex1/Main.java",
+    "code/examples/src/l37/slides/ex2/Main.java"
+  ]
+}
