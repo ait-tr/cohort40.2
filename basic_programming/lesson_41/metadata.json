@@ -1,0 +1,15 @@
+{
+  "topic": "stream-api",
+  "date": "2024-03-13",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l41/slides/ex1/Main0.java",
+    "code/examples/src/l41/slides/ex1/Main.java",
+    "code/examples/src/l41/slides/ex1/Main0_5.java",
+    "code/examples/src/l41/slides/ex3/Main.java",
+    "code/examples/src/l41/slides/ex2/Main1.java",
+    "code/examples/src/l41/slides/ex2/Main.java"
+  ]
+}
