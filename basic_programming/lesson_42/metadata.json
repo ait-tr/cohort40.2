@@ -1,0 +1,12 @@
+{
+  "topic": "exceptions",
+  "date": "2024-03-14",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l42/slides/ex1/Main.java",
+    "code/examples/src/l42/slides/ex3/Main.java",
+    "code/examples/src/l42/slides/ex2/Main.java"
+  ]
+}

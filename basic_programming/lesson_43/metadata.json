@@ -1,0 +1,17 @@
+{
+  "topic": "java-io",
+  "date": "2024-03-15",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l43/improvisation/ex1/Main.java",
+    "code/examples/src/l43/slides/ex1/file.txt",
+    "code/examples/src/l43/slides/ex1/ReadWithOutTryResourcesByStream.java",
+    "code/examples/src/l43/slides/ex1/ReadByScanner.java",
+    "code/examples/src/l43/slides/ex1/ReadWithTryResourcesByStream.java",
+    "code/examples/src/l43/slides/ex1/ReadByReader.java",
+    "code/examples/src/l43/slides/ex2/WriteByStream.java",
+    "code/examples/src/l43/slides/ex2/WriteByWriter.java"
+  ]
+}
