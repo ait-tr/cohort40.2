@@ -1,0 +1,20 @@
+{
+  "topic": "java-app-architecture",
+  "date": "2024-03-18",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l44/prev_homework/Minimum.java",
+    "code/examples/src/l44/imporvisation/mvc/models/Flat.java",
+    "code/examples/src/l44/imporvisation/mvc/models/HouseRepository.java",
+    "code/examples/src/l44/imporvisation/mvc/models/FlatRepository.java",
+    "code/examples/src/l44/imporvisation/mvc/models/House.java",
+    "code/examples/src/l44/imporvisation/mvc/models/IRepository.java",
+    "code/examples/src/l44/imporvisation/mvc/Main.java",
+    "code/examples/src/l44/imporvisation/mvc/controllers/FlatController.java",
+    "code/examples/src/l44/imporvisation/mvc/controllers/IFlatController.java",
+    "code/examples/src/l44/imporvisation/mvc/controllers/HouseController.java",
+    "code/examples/src/l44/imporvisation/mvc/views/CLIView.java"
+  ]
+}
