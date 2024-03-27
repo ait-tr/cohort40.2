@@ -1,0 +1,14 @@
+{
+  "topic": "datetime",
+  "date": "2024-03-19",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/examples/src/l45/improvisation/TimeIt.java",
+    "code/examples/src/l45/slides/LocalDateTimeExample.java",
+    "code/examples/src/l45/slides/LocalDateExample.java",
+    "code/examples/src/l45/slides/DateTimeFormatterParseExample.java",
+    "code/examples/src/l45/slides/DateTimeFormatterExample.java"
+  ]
+}
