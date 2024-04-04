@@ -1,0 +1,8 @@
+div {
+    width: 600px;
+    height: 400px;
+    background-image: url('./img/bg.jpg');
+}
+/* "I'm Igor" */
+
+/* z-index - настройка слоя изображения (дефолтное значение равно 0) */
