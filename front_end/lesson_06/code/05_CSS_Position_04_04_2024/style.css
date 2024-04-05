@@ -1,0 +1,52 @@
+div {
+    width: 600px;
+    height: 400px;
+    background-image: url('./img/bg.jpg');
+    position: relative;
+}
+
+.image {
+    position: absolute;
+}
+
+.planet-1 {
+    top: 20px;
+    left: 180px;
+}
+
+.planet-2 {
+    top: 70px;
+    left: 50px;
+}
+
+.planet-3 {
+    bottom: 20px;
+    left: 140px;
+    z-index: 10;
+}
+
+.asteroid {
+    top: 70px;
+    right: 100px;
+}
+
+.spaceship {
+    left: 140px;
+    top: 160px;
+}
+
+.ufo {
+    left: 110px;
+    bottom: 50px;
+    z-index: 20;
+}
+
+.superman {
+    bottom: 0;
+    right: 30px;
+}
+
+
+/* "I'm Igor" */
+
+/* z-index - настройка слоя изображения (дефолтное значение равно 0) */
