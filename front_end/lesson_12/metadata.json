@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/11_JS_DOM_12_04_2024/index.html",
+    "code/11_JS_DOM_12_04_2024/style.css",
+    "code/11_JS_DOM_12_04_2024/script.js",
+    "code/12_JS_DOM2_15_04_2024/index.html",
+    "code/12_JS_DOM2_15_04_2024/script.js"
+  ],
+  "video": "",
+  "etc": ""
+}
