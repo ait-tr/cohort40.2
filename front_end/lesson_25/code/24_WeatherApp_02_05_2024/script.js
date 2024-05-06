@@ -16,6 +16,7 @@ getWeatherButton.onclick = () => {
 function displayWeather(weather) {
     weatherContainer.innerHTML = `
         <h2>${weather.name}</h2>
+        <img src="http://openweathermap.org/img/wn/${weather.weather[0].icon}.png" />
         <p>Temperature: ${weather.main.temp}°C</p>
         <p>Description: ${weather.weather[0].description}</p>
         <p>Speed of wind: ${weather.wind.speed} m/s</p>
